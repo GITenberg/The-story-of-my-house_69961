@@ -1,0 +1,31 @@
+_repo: The-story-of-my-house_69961
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ellwanger, George H. (George Herman)
+    alias: Ellwanger, George Herman
+    birthdate: 1848
+    deathdate: 1906
+    gutenberg_agent_id: '47730'
+    url: http://www.gutenberg.org/2009/agents/47730
+description: ''
+gutenberg_issued: '2023-02-05'
+identifiers:
+  gutenberg: '69961'
+language: en
+pgterms:marc904: https://archive.org/details/storyofmyhouse00ellw_0/page/n7/mode/2up
+pgterms:marc905: 20210608121923ellwanger
+pgterms:marc906: '1890'
+pgterms:marc907: US
+production_note: Charlene Taylor, Barry Abrahamsen, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bD. Appleton  and Company, $c1890, pubdate
+  1891.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The story of my house
+url: http://www.gutenberg.org/ebooks/69961
